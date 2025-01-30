@@ -1,8 +1,8 @@
 # Planilha de Gestão Financeira :moneybag:
-Este repositório contém uma planilha de gestão financeira, desenvolvida no Microsoft Excel como parte do projeto final do Bootcamp CAIXA - IA Generativa com Microsoft Copilot, ministrado pela DIO.
+Este repositório contém uma planilha de gestão financeira, desenvolvida no Microsoft Excel como parte do desafio do Bootcamp CAIXA,ministrado pela DIO.
 
 # Sobre a Planilha :clipboard:
-- A planilha foi projetada para facilitar o controle financeiro pessoal ou familiar, utilizando recursos avançados do Excel. Ela permite:
+- A planilha foi projetada para facilitar o controle financeiro pessoal ou familiar, utilizando recursos do Excel. Ela permite:
 - Registro de entradas e saídas financeiras: controle detalhado de receitas e despesas diretamente na aba "Data".
 - Cálculo do dinheiro economizado: análise automática do saldo disponível.
 - Dashboard interativo: exibe gráficos e tabelas dinâmicas gerados a partir dos dados inseridos, permitindo uma visão clara e detalhada das finanças.
@@ -19,4 +19,4 @@ Este repositório contém uma planilha de gestão financeira, desenvolvida no Mi
 3. Preencha a aba "Data" com as informações de entradas e saídas financeiras.
 4. Acesse o Dashboard para visualizar gráficos, tabelas dinâmicas e análises automáticas de seus dados.
    
-:keyboard: por Keylla da :orange_heart::blue_heart: CAIXA:package:
+:keyboard: por Sandra 
